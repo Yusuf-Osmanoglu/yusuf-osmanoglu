@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, Python**
 
-- 📝 I regularly write articles on [https://yusuf-osmanoglu.github.io/yusuf-osmanoglu/](https://yusuf-osmanoglu.github.io/yusuf-osmanoglu/)
+- 📝 I regularly write articles on [https://yusuf-osmanoglu.github.io/yusuf-osmanoglu/](https://yusuf-osmanoglu.vercel.app)
 
 - 📫 How to reach me **yusufosmanoglu2003@gmail.com**
 
